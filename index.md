@@ -21,4 +21,4 @@ Read my [📋](https://github.com/Nineluj/Nineluj/blob/master/files/Julian_Hirn_
 
 ---
 
-Check out my Github profile page to see my projects
+Check out my [Github profile](https://github.com/Nineluj) page to see my projects
