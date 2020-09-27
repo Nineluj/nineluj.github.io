@@ -11,7 +11,7 @@
 
 ## More about me
 
-Read my [📋](https://github.com/Nineluj/Nineluj/blob/master/files/Julian_Hirn_resume.pdf) and link up with me!
+Read my [📋](https://github.com/Nineluj/Nineluj/blob/master/files/Julian_Hirn_Resume.pdf) and link up with me!
 <a href="https://linkedin.com/in/julianhirn">
 <img alt="Nineluj | LinkedIn" style="vertical-align:top;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
