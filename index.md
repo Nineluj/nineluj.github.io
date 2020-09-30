@@ -59,3 +59,5 @@ gRKLL5r5E60PnDYmqDDin+3OjjOt4oE66A8K4LG/KAIYj1VjWkDP4rGcSm148E0=
 =65iv
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+[cloudcrackr]: https://github.com/nineluj/cloudcrackr
